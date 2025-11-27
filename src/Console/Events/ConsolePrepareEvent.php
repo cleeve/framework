@@ -12,7 +12,7 @@ class ConsolePrepareEvent extends ConsoleEvent
   private $_output;
 
   public static function i(
-    Context $ctx, Console $console = null, InputInterface $input = null, OutputInterface $output = null
+    Context $ctx, ?Console $console = null, ?InputInterface $input = null, ?OutputInterface $output = null
   )
   {
     $event = parent::i($ctx, $console);

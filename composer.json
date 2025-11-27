@@ -18,7 +18,7 @@
     "optimize-autoloader": true
   },
   "require": {
-    "php": "^8.0",
+    "php": "^8.2",
     "ext-json": "*",
     "packaged/config": "~1.5",
     "packaged/context": "^1.11",
