@@ -5,8 +5,8 @@ plugins:
 - jekyll-remote-theme
 
 
-url: https://cubex.github.io
-baseurl: /framework
+url: https://cubex.io
+baseurl: /
 
 aux_links:
   "GitHub":
